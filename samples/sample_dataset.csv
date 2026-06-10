@@ -1,0 +1,10 @@
+text,label
+"This is a clean, high-quality training example for our LLM dataset.",1
+"This is a clean, high-quality training example for our LLM dataset.",1
+"This is a clean, high-quality training example for our LLM dataset! (Slight change)",1
+"Please contact customer support at support@example.com or call 555-123-4567.",0
+"Warning: user session compromised. SSN is 123-45-6789 and credit card is 4007000000027 (validated).",0
+"This product is absolutely garbage and I hate it so much! What a terrible, toxic piece of junk.",0
+"Short record.",1
+"##$$%%$$##!!@@**^^",0
+"Another completely normal record with no issues.",1
